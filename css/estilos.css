@@ -9,7 +9,7 @@ body
 }
 #cabecera
 {
-    background: #117;
+    background: #117 url("../img/Craig.jpg") no-repeat center;
     color: azure;
     margin: 0;
     padding: 0.5em;
