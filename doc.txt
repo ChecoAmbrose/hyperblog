@@ -11,4 +11,9 @@ Master
 Master
 =======
 Experimento 1
+<<<<<<< HEAD
 >>>>>>> exp1
+=======
+
+Experimento 2
+>>>>>>> exp2
