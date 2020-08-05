@@ -6,5 +6,9 @@ A Halo Infinite le falta aún mucho desarrollo.
 
 El OST de Infinite es hermoso alv <3
 
+<<<<<<< HEAD
 Master
 Master
+=======
+Experimento 1
+>>>>>>> exp1
